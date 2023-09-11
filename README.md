@@ -3,13 +3,13 @@
 
 ## Introduction
 
-This analysis is delving into sucide rate in the world. The suicide rate in the world is of global concern. This study is to gain insigt into suicide trends all over the world, among diffrent races, region and age groups. This analysis covers the period of 1985-2016
+This analysis is delving into sucide rate in the world. The suicide rate in the world is of global concern. This study is to gain insigt into suicide trends all over the world, among diffrent races, region and age groups. This analysis covered the period of 1985-2016
 
 ![](images.jpeg)
 
 ## Problem Statement 
 
-The Objectives of this analysis is to calculate; 
+The Objectives of this analysis is to calculate. 
 - Total number of suicide in the period
 
 - Total number number of male suicide victims
@@ -19,6 +19,10 @@ The Objectives of this analysis is to calculate;
 - Countries with the highest number of suicide
 
 - Average suicide per year
+
+- Generation with the highest suicide rate
+
+- Age group with the highest suicide rate 
 
 ![](dashboard2.jpeg)
 
@@ -30,22 +34,24 @@ The Objectives of this analysis is to calculate;
     
   - Calculated field for KPIs
     
-  - silcers for filtering
+  - Silcers for filtering
     
   - Tableau for data visualization
 
 
 ## Data Sourcing 
 ![](datasource.jpeg)
+
+
 This datasets is from www.kaggle.com. it is a csv file with a single table. Its has 12 columns and 27821 rows.
 
 
 ## Data Transformation 
-The is clean data with very few null values with where filtered out. 
+The is a clean data with very few null values with were filtered out. 
 
 
 ## Data modeling 
-this is a single a single sheet file therefore data modeling was not carried out.
+This is a single sheet therefore data modeling was not carried out.
 
 
 ## Data Analysis and Visualization 
@@ -53,7 +59,7 @@ this is a single a single sheet file therefore data modeling was not carried out
 ![](Suicide.png)
 [Click here to view the world suicide dashboard workbook](https://public.tableau.com/app/profile/ussy.page/viz/Suicide_Dashboard/Dashboard1)
 
-- Total number of suicides 6,748,420 milion during the period covered.
+- Total number of suicides is 6,748,420 milion during the period covered.
 
 - Total number of male and female suicides are 5,188,910 and 1,559,510 respectively.
 
@@ -63,11 +69,11 @@ this is a single a single sheet file therefore data modeling was not carried out
 
 - Rusian has the highest suicides rate followed by United state and Japan.
 
-- The age group of 35-54 has the highest suicide rate while the age group of 5-14.
+- The age group of 35-54 has the highest suicide rate while the age group of 5-14 has the least suicide rate.
 
 
 
-  ## Conclution And Recommendation 
+## Conclusion And Recommendations
 
 ![](SUPPORT.jpeg)
  
